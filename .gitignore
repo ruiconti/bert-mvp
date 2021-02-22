@@ -1,0 +1,9 @@
+.pyc
+__pycache__
+example/
+.ipynb_checkpoints/
+*.tar.gz
+*.xls
+nbs/
+logs/
+.DS_Store

@@ -1,0 +1,4 @@
+pandas==1.2.2
+streamlit==0.76.0
+transformers==4.3.2
+torch==1.7.1
